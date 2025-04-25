@@ -1,8 +1,7 @@
-requests>=2.31.0
-beautifulsoup4>=4.12.3
-lxml>=5.1.0
-urllib3>=2.2.1
-fake-useragent>=1.5.1
-termcolor>=2.4.0
-colorama>=0.4.6
-rich>=13.7.0
+requests
+beautifulsoup4
+lxml
+fake-useragent
+termcolor
+colorama
+rich
